@@ -12,5 +12,4 @@ AC_OUTPUT([
 Makefile
 plugin/Makefile
 bitratetool/Makefile
-po/Makefile
 ])
