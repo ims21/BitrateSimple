@@ -4,7 +4,7 @@ from Components.ActionMap import ActionMap
 from Components.Label import Label
 from enigma import eTimer
 
-from bitrate import Bitrate
+from .bitrate import Bitrate
 
 class BitrateViewer(Screen):
 	skin = """
