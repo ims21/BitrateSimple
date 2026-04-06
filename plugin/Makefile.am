@@ -1,4 +1,4 @@
-installdir = $(LIBDIR)/enigma2/python/Plugins/Extensions/BitrateSimple
+installdir = $(libdir)/enigma2/python/Plugins/Extensions/BitrateSimple
 
 install_PYTHON = __init__.py plugin.py bitrate.py
 install_DATA = bitrateviewer.png
